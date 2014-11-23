@@ -1,6 +1,6 @@
 ## This assignment involves writing two functions that cache the inverse of a matrix
 
-## This function will create a special matrix that can cache its inversex
+## This function will create a special matrix that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
         ## Initialize the inverse property
         m <- NULL
